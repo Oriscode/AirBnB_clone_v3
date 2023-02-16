@@ -154,10 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Afolabi John Oluwaseun
+Isiaka Yusuf
 
 ## Contributors
-Uche Esere Orji
+Godday
 
 ## License
 Public Domain. No copy write protection. 
