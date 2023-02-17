@@ -157,7 +157,7 @@ No known bugs at this time.
 Isiaka Yusuf
 
 ## Contributors
-Godday
+Ojijevwe Peter Godday
 
 ## License
 Public Domain. No copy write protection. 
